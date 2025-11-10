@@ -27,9 +27,5 @@ public class SmartPhone extends Product {
                 ", has5G=" + has5G +
                 '}';
     }
-//    public static void getInfo(){
-//        for(Product pd : Main.danhSachSP){
-//            System.out.println(pd.toString());
-//        }
-//    }
+
 }
