@@ -30,11 +30,7 @@ public class Laptop extends Product {
                 ", cpu='" + cpu + '\'' +
                 '}';
     }
-    //public static void getInfo(){
-//    for(Product pd : Main.danhSachSP){
-//        System.out.println(pd.toString());
-//    }
-//}
+  
 
 
 }
